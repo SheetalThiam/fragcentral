@@ -146,14 +146,23 @@ If, as RFC 8890 states “Inappropriate concentration of power on the Internet h
 5.1 IPV4 and 6 migration
 	IPV6 intended to improve data integrity and privacy for end users 
 	Full, partial or no deployment of IPV6
+ 
 5.2 Internationalised domain names 
+
 5.3 Intentional Network shutdowns 
+
 5.4 Unintentional blackouts 
+
 5.5 Sender pays agreements
+
 5.6 Social media bans (X/Twitter, Tiktok)
+
 5.7 Standards that could impact net neutrality 
+
 5.8 Encrypted DNS protocols 
+
 5.9 Introduction of NATs/other translation mechanisms? (see RFC3724)
+
 5.10 TLS Trust Expressions 
 
 # 6. Informative References 
