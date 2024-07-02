@@ -130,7 +130,7 @@ If, as RFC 8890 states “Inappropriate concentration of power on the Internet h
 
 5.8 Encrypted DNS protocols 
 
-5.9 Introduction of NATs/other translation mechanisms? (see RFC3724)
+5.9 Introduction of NATs/other translation mechanisms (see RFC3724)
 
 5.10 TLS Trust Expressions 
 
