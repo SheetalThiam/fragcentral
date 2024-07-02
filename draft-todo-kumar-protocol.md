@@ -29,20 +29,7 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 author:
  -
     fullname: Sheetal Kumar 
-    organization: Your Organization Here
     email: sheetal@gp-digital.org 
-
-normative:
-
-informative:
-
-
---- abstract
-
-TODO Abstract
-
-
---- middle
 
 # Introduction
 
