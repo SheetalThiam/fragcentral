@@ -29,7 +29,21 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 author:
  -
     fullname: Sheetal Kumar 
+    Organization: Global Partners Digital 
     email: sheetal@gp-digital.org 
+
+author:
+ -
+    fullname: Michaela Nakayama Shapiro 
+    Organization: Global Partners Digital 
+    email: michaela@gp-digital.org 
+
+author:
+ -
+    fullname: Jessamine Pacis 
+    Organization: Forum for Media Alternatives 
+    email: jpacis@fma.ph 
+    
 
 # Introduction
 
