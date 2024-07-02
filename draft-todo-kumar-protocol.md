@@ -140,6 +140,61 @@ Centralization, consolidation and fragmentation are different and contested phen
 # 4. Recommendations 
 
 If, as RFC 8890 states “Inappropriate concentration of power on the Internet has become a concerning phenomenon -- one that protocol design might have some influence upon” [Nottingham 2], then we posit that the IETF could explore how protocol design might have an influence on this concentration by centring the end user. Specifically, the use cases below could ask “do standards preserve end-user choice rights and increase/reinforce, decrease choke points or are they neutral?” In exploring this question, and because of the trends above in relation to the end-to-end principle, it will also be instructive to address “how do current trends in terms of the rise in third parties and their corresponding impact on consolidation impact the end-to-end principle?” As protocol design is about evolution: can any claims be made that at any point a protocol design further consolidates internet infrastructure OR that it undermines end-user agency? A user-centred analysis via the following use cases could therefore employ a three-pronged approach on 1) end-user choice, control and end user rights; 2) on choke points and 3) the end-to end principle.
+
+# 5. Use Cases 
+
+5.1 IPV4 and 6 migration
+	IPV6 intended to improve data integrity and privacy for end users 
+	Full, partial or no deployment of IPV6
+5.2 Internationalised domain names 
+5.3 Intentional Network shutdowns 
+5.4 Unintentional blackouts 
+5.5 Sender pays agreements
+5.6 Social media bans (X/Twitter, Tiktok)
+5.7 Standards that could impact net neutrality 
+5.8 Encrypted DNS protocols 
+5.9 Introduction of NATs/other translation mechanisms? (see RFC3724)
+5.10 TLS Trust Expressions 
+
+# 6. Informative References 
+
+[Alvestrand] Alvestrand, H., “A Mission Statement for the IETF”, RFC 3935, October 2004, <https://datatracker.ietf.org/doc/html/rfc3935>
+
+[Baltra] Baltra, G., “Improving network reliability using a formal definition of the Internet core,” IETF117,  July 2023, <https://play.conf.meetecho.com/Playout/?session=IETF117-HRPC-20230726-2000> 
+
+[Carpenter] Carpenter, B., “Architectural Principles of the Internet,” RFC 1958, June 1996, <https://datatracker.ietf.org/doc/html/rfc1958>
+
+[Cath] Cath, C., ten Oever, N., “Research into Human Rights Protocol Considerations,” RFC 8280, July 2020, <https://datatracker.ietf.org/doc/rfc8280/>
+
+[Crocker] Crocker, S., “Host Software”, RFC 1, April 1969, <https://datatracker.ietf.org/doc/html/rfc1>
+
+[Drake] Drake, W., Cerf, V., Kleinwächter, W., “Internet Fragmentation: An Overview,” World Economic Forum, January 2016, <https://www3.weforum.org/docs/WEF_FII_Internet_Fragmentation_An_Overview_2016.pdf>
+
+[Hawkins] Hawkins, Z., “Internet Governance Doublespeak: Western Governments and the Open Internet,” Council on Foreign Relations, January 2023, <https://www.cfr.org/blog/internet-governance-doublespeak-western-governments-and-open-internet> 
+
+[Huitema] Huitema, C., Huston, G., Kutscher, D., Zhang, L., “Report of 2021 DINRG Workshop on Centralization in the Internet, Computer Communication Review, July 2023, <https://dl.acm.org/doi/abs/10.1145/3610381.3610386#:~:text=The%20IRTF%20Research%20Group%20on,the%20above%20questions%20%5B1%5D >
+
+[Internet Society] Internet Society, “The Internet Way of Networking: Defining the critical properties of the Internet”, Internet Way of Networking, 9 September 2020, < https://www.internetsociety.org/resources/doc/2020/internet-impact-assessment-toolkit/critical-properties-of-the-internet/>
+
+[Kempf] Kempf, J., Austein, R., “The Rise of the Middle and the Future of End-to-End:
+Reflections on the Evolution of the Internet Architecture”, RFC 3724, March 2004, < https://datatracker.ietf.org/doc/html/rfc3724>
+
+[Knodel] Knodel, M., “On Internet Fragmentation,” draft I-D, October 2023, <draft-knodel-iab-fragmentation.md> 
+
+[Lazanski] Lazanski, D., McFadden., “Protocol and Engineering Effects of Consolidation”, draft-lazanski-consolidation-05, April 2023, <https://datatracker.ietf.org/doc/draft-lazanski-consolidation/05/>
+
+[McFadden] McFadden, M., “A Taxonomy of Internet Consolidation”, draft-mcfadden-consolidation-taxonomy-03, April 2024, <https://datatracker.ietf.org/doc/draft-mcfadden-consolidation-taxonomy/03/>
+
+[Merrill] Merrill, N., “IETF 117 - Fragmentation & concentration: Beyond "free" & "closed," elsehow, August 2023, <https://www.else.how/p/ietf-117-fragmentation-and-concentration>
+
+[Nottingham 1] Nottingham, M., “Centralization, Decentralization, and Internet Standards”, RFC 9518, December 2023, <https://datatracker.ietf.org/doc/rfc9518/>
+
+ [Nottingham 2] Nottingham, M, “The Internet is for End Users”, RFC8890, August 2020, <https://datatracker.ietf.org/doc/html/rfc8890> 
+
+[PNIF] Policy Network on Internet Fragmentation (PNIF), “PNIF Discussion Paper (input to IGF 2023),” Internet Governance Forum, September 2023, <https://www.intgovforum.org/en/filedepot_download/256/26218> 
+
+[Zhang] Zhang, L., “Discussion: Is the End-to-End argument in system design still needed?,” DINRG, March 2023, <https://datatracker.ietf.org/meeting/116/materials/slides-116-dinrg-discussion-is-the-end-to-end-argument-in-system-design-still-needed-03> 
+
 # Security Considerations
 
 TODO Security
