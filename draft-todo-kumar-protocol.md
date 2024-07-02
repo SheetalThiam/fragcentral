@@ -123,13 +123,18 @@ RFC 8890 stresses that the end user perspective is a complex one as end users ar
 Elsewhere, according to the European Electronic Communications Code (EECC), “end-user” means a user not providing public electronic communications networks or publicly available electronic communications services. In turn, “user” means a natural or legal person using or requesting a publicly available electronic communications service. On that basis, BEREC understands “end-user” to encompass individuals and businesses, including consumers as well as content and application providers (CAPs).
 
 3.2 End users and end-point architectures
+
 The end-to-end principle and the way it impacts the end user is addressed in RFC1958, which states iIt is highly desirable that Internet carriers protect the privacy and authenticity of all traffic, but this is not a requirement of the architecture [Carpenter]. Confidentiality and authentication are the responsibility of end users and must be implemented in the protocols used by the end users. Endpoints should not depend on the confidentiality or integrity of the carriers. Carriers may choose to provide some level of protection, but this is secondary to the primary responsibility of the end users to protect themselves”.
 However, as the end-to-end principle itself evolves, it is worth asking what the relationship of the end user to the principle, and to the development and evolution of relevant internet standards and protocols is - and how it could evolve. 
 
 3.3 The end-to-end principle 
+
 The end-to-end principle was originally articulated as where best to put functions in a system. According to RFC 3724: “to perform its services, the network maintains some state information….the volume of this state must be minimized” [Kempf]
+
 The end-to-end principle holds that "the intelligence is end-to-end rather than hidden in the network" [Saltzer ; Carpenter].  The end-to-end principle is important for the robustness of the network and innovation.  Such robustness of the network is crucial to enabling human rights like freedom of expression. [Cath]
+
 Preserving user choice is one of the more recent articulations of the end-to-end principle. For example, “primary focus of concern in the reduction in transparency due to the introduction of NATs and other address translation mechanisms in the Internet, and the consequences to the end-to-end principle of various scenarios involving full, partial, or no deployment of IPv6” [Kempf].
+
 The end-to-end principle is being impacted as internet architecture changes [Zhang]. New, interposing elements that challenge it are about addressing trust issues arising from increase in users and the consequent “rise of third parties” or intermediaries- a critical change in the past few years. “The requirements of third parties often have little or nothing to do with technical concerns, but rather derive from particular commercial, social and legal considerations” [Kempf]. The same RFC states that “end user choice and empowerment, integrity of service, support for trust, and "good network citizen behaviour" are all properties that have developed as a consequence of the end-to-end principle.  Recognizing these properties in a particular proposal for modifications to the Internet has become more important than before as the pressures to incorporate services into the network have increased.  Any proposal to incorporate services in the network should be weighed against these properties before proceeding”.
 
 3.4 Connecting the different frameworks and charting an end-user perspective framework 
