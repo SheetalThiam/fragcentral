@@ -20,7 +20,7 @@ author:
 author:
  -
     fullname: Jessamine Pacis 
-    Organization: Forum for Media Alternatives 
+    Organization: Foundation for Media Alternatives 
     email: jpacis@fma.ph 
     
 
