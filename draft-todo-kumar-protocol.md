@@ -14,8 +14,8 @@ author:
 author:
  -
     fullname: Michaela Nakayama Shapiro 
-    Organization: Global Partners Digital 
-    email: michaela@gp-digital.org 
+    Organization: Article 19
+    email: michaela.shapiro@article19.org
 
 author:
  -
