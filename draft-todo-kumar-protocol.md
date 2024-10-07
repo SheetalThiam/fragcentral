@@ -140,6 +140,10 @@ If, as RFC 8890 states “Inappropriate concentration of power on the Internet h
 
 [Alvestrand] Alvestrand, H., “A Mission Statement for the IETF”, RFC 3935, October 2004, <https://datatracker.ietf.org/doc/html/rfc3935>
 
+[Article 19] Article 19, “The Global Principles on Protection of Freedom of Expression and Privacy, Policy Brief, March 2017, <https://www.article19.org/resources/the-global-principles-on-protection-of-freedom-of-expression-and-privacy/>
+ 
+[Badiei] Badiei, F., “Reviving Internet Decentralization Without Relying on the ‘B word’!” January 2024, <https://pulse.internetsociety.org/blog/reviving-internet-decentralization-without-relying-on-the-b-word> 
+
 [Baltra] Baltra, G., “Improving network reliability using a formal definition of the Internet core,” IETF117,  July 2023, <https://play.conf.meetecho.com/Playout/?session=IETF117-HRPC-20230726-2000> 
 
 [Carpenter] Carpenter, B., “Architectural Principles of the Internet,” RFC 1958, June 1996, <https://datatracker.ietf.org/doc/html/rfc1958>
@@ -149,6 +153,11 @@ If, as RFC 8890 states “Inappropriate concentration of power on the Internet h
 [Crocker] Crocker, S., “Host Software”, RFC 1, April 1969, <https://datatracker.ietf.org/doc/html/rfc1>
 
 [Drake] Drake, W., Cerf, V., Kleinwächter, W., “Internet Fragmentation: An Overview,” World Economic Forum, January 2016, <https://www3.weforum.org/docs/WEF_FII_Internet_Fragmentation_An_Overview_2016.pdf>
+
+[Global Partners Digital] Global Partners Digital, “Regional Roundtable Briefing: Internet Fragmentation and Human Rights in Europe,” February 2024,
+<https://www.gp-digital.org/publication/regional-roundtable-briefing-internet-fragmentation-and-human-rights-in-europe/>
+
+[Grover] Grover, G., Oever, N., “Guidelines for Human Rights Protocol and Architecture Considerations,” RFC 9620, September 2024, <https://datatracker.ietf.org/doc/rfc9620/>
 
 [Hawkins] Hawkins, Z., “Internet Governance Doublespeak: Western Governments and the Open Internet,” Council on Foreign Relations, January 2023, <https://www.cfr.org/blog/internet-governance-doublespeak-western-governments-and-open-internet> 
 
@@ -171,7 +180,9 @@ Reflections on the Evolution of the Internet Architecture”, RFC 3724, March 20
 
 [Nottingham 1] Nottingham, M., “Centralization, Decentralization, and Internet Standards”, RFC 9518, December 2023, <https://datatracker.ietf.org/doc/rfc9518/>
 
- [Nottingham 2] Nottingham, M, “The Internet is for End Users”, RFC8890, August 2020, <https://datatracker.ietf.org/doc/html/rfc8890> 
+[Nottingham 2] Nottingham, M, “The Internet is for End Users”, RFC8890, August 2020, <https://datatracker.ietf.org/doc/html/rfc8890> 
+
+[OHCHR] Office of the United Nations High Commissioner for Human Rights, “Human rights and technical standard-setting processes for new and emerging digital technologies,” A/HRC/53/42, June 2023, <https://digitallibrary.un.org/record/4031373?ln=en&v=pdf>
 
 [PNIF] Policy Network on Internet Fragmentation (PNIF), “PNIF Discussion Paper (input to IGF 2023),” Internet Governance Forum, September 2023, <https://www.intgovforum.org/en/filedepot_download/256/26218> 
 
