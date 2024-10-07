@@ -89,7 +89,7 @@ Elsewhere, according to the European Electronic Communications Code (EECC), “e
 
 3.2 End users and end-point architectures
 
-The end-to-end principle and the way it impacts the end user is addressed in RFC1958, which states iIt is highly desirable that Internet carriers protect the privacy and authenticity of all traffic, but this is not a requirement of the architecture [Carpenter]. Confidentiality and authentication are the responsibility of end users and must be implemented in the protocols used by the end users. Endpoints should not depend on the confidentiality or integrity of the carriers. Carriers may choose to provide some level of protection, but this is secondary to the primary responsibility of the end users to protect themselves”.
+The end-to-end principle and the way it impacts the end user is addressed in RFC1958, which states it is highly desirable that Internet carriers protect the privacy and authenticity of all traffic, but this is not a requirement of the architecture [Carpenter]. Confidentiality and authentication are the responsibility of end users and must be implemented in the protocols used by the end users. Endpoints should not depend on the confidentiality or integrity of the carriers. Carriers may choose to provide some level of protection, but this is secondary to the primary responsibility of the end users to protect themselves”.
 However, as the end-to-end principle itself evolves, it is worth asking what the relationship of the end user to the principle, and to the development and evolution of relevant internet standards and protocols is - and how it could evolve. 
 
 3.3 The end-to-end principle 
