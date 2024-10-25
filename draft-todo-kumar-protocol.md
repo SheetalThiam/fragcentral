@@ -70,6 +70,10 @@ Finally, governance fragmentation in the PNIF framework relates to the interacti
 
 The PNIF framework includes “the user experience” as a central component. Importantly, the definition of user experience includes an element of ‘control’, or not being allowed choice with regards to the access of content that is allowed elsewhere; in other words access to information that mirrors territorial boundaries. The end user can and is impacted by technical fragmentation as described in the framework (due to the impact on global interoperability of the internet for example), but the means by which they are or could be impacted is not fully explored in the framework. In the governance component of the framework, the choice and capacities of end users is understood as limited by practices that undermine access to governance and decision making spaces [PNIF]. 
 
+These types of fragmentation do not operate in silos and are often interconnected.  For example, regulatory actions, such as efforts by governments to push users onto domestic networks, can lead to technical fragmentation: in the case of Iran, the government blocked domestic internet service provider’s (ISP) access to international gateways, which meant the global internet was centralised to only government-controlled getaways serving as the only access point for all international traffic and IP capacity and connectivity services in the country. These government-controlled getaways can facilitate censorship by preventing end-users in the country from accessing content hosted on international servers and forcing end-users to utilise servers that may expose identifiers [Article 19]. Such actions can also lead to technical fragmentation whereby the domestic internet infrastructure is no longer interoperable with that of the global internet. This has serious ramifications for freedom of expression online, negatively impacting end-users ability to access and share information [PNIF]. 
+
+We also see this in efforts that aim to address consolidation but can inadvertently lead to fragmentation: for example, with EU proposals to enforce ‘sender-pay’ agreements, which impact the decentralised management of the internet (one of the critical properties) by altering the nexus of control over the technical architecture of the Internet by providing telecommunication providers with the ability to control traffic flows [GPD 2]. Increasing efforts to restrict data flows or control what data individuals can access online are also having an impact on the technical layer of the Internet. Network shutdowns, DNS-based blocking (among other censorship tools), firewalls, and walled gardens all represent efforts by governments to prevent users’ access to certain information, with potential impacts on the technical layer of the internet if more widely and consistently adopted. Such regulatory efforts to protect ‘digital sovereignty’ are leading to increasing politicisation of the internet’s core - meaning the fundamental technical functions that keep the internet functioning, such as the domain name and addressing system [GPD 1].
+
 At IETF 117, two presentations are of particular interest to this draft, that of Nick Merrill and of Baltra. 
 
 In the definition of internet fragmentation proposed by Baltra, the Internet is the connected component of more than 50% of the active, public IP addresses that can reach each other. In their paper they identify islands and peninsulas of connectivity, which could be seen as fragments and in their definition if none of the connected components reaches 50% of the active, public IP addresses then the network of networks is so fragmented that the Internet doesn't exist any longer. Using this definition means that the fragmentation of the Internet would be a binary event, whereby from one moment to another the Internet ceases to exist. As such, this is a narrow IP connectivity based perspective on fragmentation [Baltra].
@@ -140,7 +144,9 @@ If, as RFC 8890 states “Inappropriate concentration of power on the Internet h
 
 [Alvestrand] Alvestrand, H., “A Mission Statement for the IETF”, RFC 3935, October 2004, <https://datatracker.ietf.org/doc/html/rfc3935>
 
-[Article 19] Article 19, “The Global Principles on Protection of Freedom of Expression and Privacy, Policy Brief, March 2017, <https://www.article19.org/resources/the-global-principles-on-protection-of-freedom-of-expression-and-privacy/>
+[Article 19 1] Article 19, “The Global Principles on Protection of Freedom of Expression and Privacy, Policy Brief, March 2017, <https://www.article19.org/resources/the-global-principles-on-protection-of-freedom-of-expression-and-privacy/>
+
+[ Article 19 2] Article 19, “Iran: Tightening the Net 2020,” September 2020, <https://www.article19.org/wp-content/uploads/2020/09/TTN-report-2020.pdf>
  
 [Badiei] Badiei, F., “Reviving Internet Decentralization Without Relying on the ‘B word’!” January 2024, <https://pulse.internetsociety.org/blog/reviving-internet-decentralization-without-relying-on-the-b-word> 
 
@@ -154,7 +160,9 @@ If, as RFC 8890 states “Inappropriate concentration of power on the Internet h
 
 [Drake] Drake, W., Cerf, V., Kleinwächter, W., “Internet Fragmentation: An Overview,” World Economic Forum, January 2016, <https://www3.weforum.org/docs/WEF_FII_Internet_Fragmentation_An_Overview_2016.pdf>
 
-[Global Partners Digital] Global Partners Digital, “Regional Roundtable Briefing: Internet Fragmentation and Human Rights in Europe,” February 2024,
+[Global Partners Digital 1] Global Partners Digital, “Internet Fragmentation and Human Rights: How to counter threats to an open, interoperable and global Internet,” May 2024, <https://www.gp-digital.org/internet-fragmentation-and-human-rights-how-to-counter-threats-to-an-open-interoperable-and-global-internet/> 
+
+[Global Partners Digital 2] Global Partners Digital, “Regional Roundtable Briefing: Internet Fragmentation and Human Rights in Europe,” February 2024,
 <https://www.gp-digital.org/publication/regional-roundtable-briefing-internet-fragmentation-and-human-rights-in-europe/>
 
 [Grover] Grover, G., Oever, N., “Guidelines for Human Rights Protocol and Architecture Considerations,” RFC 9620, September 2024, <https://datatracker.ietf.org/doc/rfc9620/>
