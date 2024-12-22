@@ -1,0 +1,399 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2024-12-22T00:57:24.739698+00:00",
+  "repo": "SheetalThiam/fragcentral",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 4,
+      "id": "I_kwDOLb-3xM6VTc8J",
+      "title": "Consider end user ",
+      "url": "https://github.com/SheetalThiam/fragcentral/issues/4",
+      "state": "OPEN",
+      "author": "SheetalThiam",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "SheetalThiam"
+      ],
+      "labels": [],
+      "body": "If the point is that the distinction between consolidation and centralisation makes it obvious we need to think about the end user, then what is the end goal, what are your recommendations for IRTF?\r\n\r\nResponse: We could consider/isolate the relevant RFCs and recommendations included therein (e.g HRPC guidelines - RFC 9260), RFC 8890, RFC 8280, and from there identify whether there are any gaps in addressing aspects of centralisation and consolidation from a protocol perspective. \r\n\r\n",
+      "createdAt": "2024-09-04T10:16:53Z",
+      "updatedAt": "2024-09-19T14:14:41Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Mark Nottingham] What is missing is an analysis of the impact these trends have on the end-user, as the reference point for the design of internet protocols at a time when economic and political forces are increasingly having an impact on how the internet evolves.\r\n\r\nResponse: Yes, we aim to do this by assessing how current RFCs focused on the end user address the issues of centralisation and consolidation and then trace any missing elements in relation to the threat of creating choke points and single points of failure \r\n",
+          "createdAt": "2024-09-10T07:57:48Z",
+          "updatedAt": "2024-09-19T14:09:26Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Andrew Campling] RFC8890 is relevant here re: internet being fully end-user from IETF\r\n",
+          "createdAt": "2024-09-10T07:59:14Z",
+          "updatedAt": "2024-09-10T07:59:14Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Vittorio Bertola] The end-to-end principle was conceived at a time when end-users had full control of their devices but that\u2019s no longer the reality. It may be a moment to reframe this principle and think about how to protect end-users from their devices pushing them to do things they may not want to do?\r\n\r\nResponse: We suggest reviewing current RFCs on the end user and identifying relevant questions/recommendations and any gaps in relation to fragmentation, centralisation and consolidation. The main questions in guiding our analysis will be \u201chow are the recommendations or guiding questions included here relevant to centralisation or fragmentation, specifically how are they relevant to the principal connections of concern: 1) the advancement of single points of failure 2) impact on user choice\u201d?\r\n",
+          "createdAt": "2024-09-10T08:02:52Z",
+          "updatedAt": "2024-09-19T14:14:41Z"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "I_kwDOLb-3xM6V8jc0",
+      "title": "Clarification of Terminology / Definitions",
+      "url": "https://github.com/SheetalThiam/fragcentral/issues/5",
+      "state": "OPEN",
+      "author": "michaelaA19",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "[Nick Merrill] Consider the end user: if the point is that the distinction between consolidation and centralisation makes it obvious we need to think about the end user, then what is the end goal, what are your recommendations for IRTF?\r\n\r\nResponse: We could consider/isolate the relevant RFCs and recommendations included therein (e.g HRPC guidelines - RFC 9260), RFC 8890, RFC 8280, and from there identify whether there are any gaps in addressing aspects of centralisation and consolidation from a protocol perspective. \r\n",
+      "createdAt": "2024-09-10T07:50:42Z",
+      "updatedAt": "2024-09-19T14:28:18Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Nick Merrill] There is a point that standards inform policy and vice versa: need to make this point clearer",
+          "createdAt": "2024-09-10T07:53:28Z",
+          "updatedAt": "2024-09-10T07:53:28Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Nick Merrill] Human rights angle has been worked on and could be used/developed further in the draft\r\n\r\nResponse: Yes, identifying/isolating relevant recommendations from the HRPC guidelines/RFC 9260 would be part of any suggested guidelines, recommendations or questions we\u2019d suggest ",
+          "createdAt": "2024-09-10T07:54:46Z",
+          "updatedAt": "2024-09-19T14:20:11Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Tobias Fiebeg] With regards to fragmentation, is this an emergent effect of traditional policy making interfering with the original bottom-up- border-and-government-less-self-governance of the Internet?\r\n\r\nResponse: There are intersections - the most simple/basic one is that the if protocols/standards serve or augment the resource power of certain actors, then this results in consolidation/centralisation, which can further fragmentation by 1) driving policies that seek to address consolidation but which inadvertently lead to fragmentation - e.g data localisation, sender pays 2) creating control points or central points of failure.\r\n",
+          "createdAt": "2024-09-10T07:55:41Z",
+          "updatedAt": "2024-09-19T14:20:56Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Mark Nottingham] Don't think you do enough to define a crisp line between 'consolidation' and 'centralization' -- early versions of my draft attempted to do so, but I gave up :) Part of the issue here is that 'the design of standards or protocols' often only has at most a minor effect on centralisation -- it's easy to fall into the trap of believing that the protocols dictate all behaviour on the Internet, when in fact they are only a basis. Because they are (usually) generative, they do not constrain so much as enable, a centralization/consolidation happens within that enablement. It might be good to be more distinctive about the effects of those forces. While there are some effects on the Internet, most are seen in the applications built on *top* of the Internet (and Web).\r\n\r\nResponse: we aim to do this by assessing how current RFCs focused on the end user address the issues of centralisation and consolidation and then trace any missing elements in relation to the threat of creating choke points and single points of failure. For example, we could have questions relating to whether the protocol would promote decentralisation or not, whether it promotes interoperability or not - that add to/advance the questions in RFC 9260 ",
+          "createdAt": "2024-09-10T07:58:11Z",
+          "updatedAt": "2024-09-19T14:25:27Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Arnaud Taddei] Consider bringing a report of a previous workshop (on fragmentation and human rights in the EU to this community? ",
+          "createdAt": "2024-09-10T08:01:37Z",
+          "updatedAt": "2024-09-10T08:01:37Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Rahul Gupta] Have we considered the effect of the larger computer market on centralization that happens on the internet?\r\n\r\nResponse: We could make reference to the point that the general concern with having single points of failure relate to hardware too and that research into how the different layers of the internet and software/applications and hardware relate to each other _in relation to the issue of single points of failure_ is an area that could be beneficial for future research (for example in elucidating the kinds of harms that could arise from the exacerbation of single points of failure from protocol development and implementation) \r\n",
+          "createdAt": "2024-09-10T08:03:20Z",
+          "updatedAt": "2024-09-19T14:28:18Z"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "I_kwDOLb-3xM6V8j8R",
+      "title": "Define / concretize recommendations for I-D",
+      "url": "https://github.com/SheetalThiam/fragcentral/issues/6",
+      "state": "OPEN",
+      "author": "michaelaA19",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "[Nick Merrill] Is there more a need to focus on other issues and solutions re: equality in access, e.g development of ISPs in the global South in order to address consolidation?\r\n\r\n[Response] This is certainly something we can incorporate into the suggestions for further research and/or recommendations. However, the issue of development of local ISPs extends beyond just the global south (e.g. increasing competition in the ISP market more broadly). It is also likely to require actions that extend beyond the remit of the IETF. But it is certainly something to be incorporated into the I-D as an area for further consideration!",
+      "createdAt": "2024-09-10T07:51:38Z",
+      "updatedAt": "2024-10-07T14:42:31Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Nick Merrill] Focus on what is distinctive, what IRTF can/should do, end user, recommendations (is it for metrics/etc)? The I-D needs to be more aggressive about the assertion that the IETF/IRTF MUST do something about this, and be more specific on what exactly it should do.\r\n\r\n[Response] We can certainly be more aggressive in the recommendations, and specifically for actions that the IRTF/IETF can take to address the issue. The aim is for this document to set out a framework for understanding the potential consequences of centralisation to the end-to-end principle and how it can negatively impact end-users. From this framework, we aim to promote developers and researchers working in the IRTF/IETF space to consider how their work could have a negative impact on end-users, with the focus here being on centralisation and the end-to-end principle. In terms of the \u2018how\u2019, we will integrate more concrete suggestions into the recommendations.",
+          "createdAt": "2024-09-10T07:53:11Z",
+          "updatedAt": "2024-10-02T13:31:01Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Tobias Fieberg] The I-D makes more the impression of the beginning of a position/policy paper than a draft (even for IRTF values of draft).  It might be better to see how far you can cut down the document to really focus on the essentials. E.g., what might be a good document would be something organizing (read: Taxonomy) all the different ways/factors/perspectives playing into the centralization and fragmentation (i believe the two to be connected) of the Internet; Stretching from walled gardens to political agendas an interesting train of thought;\r\n\r\n[Response] We will be integrating more concrete recommendations for centering the end-user perspective, looking at RFCs that are cited in the I-D (including 9260 and 8890) to identify any gaps. We can then ascertain whether it will fit for evolving into a text that contain recommendations and therefore be an RFC.",
+          "createdAt": "2024-09-10T07:56:32Z",
+          "updatedAt": "2024-10-07T14:42:31Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Andrew Campling] Does this community have any competence to say more than that? It\u2019s not multistakeholder; arguably other places have more ability/competency to say more on this to to then inform the IETF\u2019s actions rather than the IETF itself making these decisions (e.g. IETF more of a receiver of these decisions and/or convenor of discussions)\r\n\r\n[Response] We would suggest that the IETF could be doing more on this topic even if it is not a mulitstakeholder space. The IETF can do something even if it t may not be making decisions, such as hosting more discussions on protocol design and impact to augment or curtail concentration of power. ",
+          "createdAt": "2024-09-10T08:00:55Z",
+          "updatedAt": "2024-10-02T14:09:46Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Arnaud Taddei] How do we continue the work here and by which angle do we tackle it? Want to keep it user-centric e.g. proposing finding solutions on end-user \r\n\r\n[Response] Yes, we want to keep it user - centric and find solutions that centre the end user. We will be adding more proposed concrete solutions to the I-D that we can consider for how to continue this work.",
+          "createdAt": "2024-09-10T08:02:01Z",
+          "updatedAt": "2024-10-02T14:10:31Z"
+        },
+        {
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "body": "[Vittorio Bertola] How can we make it so that what we discuss at this part of the IETF actually impacts what the rest of the IETF does?\r\n\r\n[Response] One way we aim to do this is by reviewing current RFCs that focus on the end user and identifying relevant questions/recommendations and any gaps in relation to fragmentation, centralisation and consolidation. The main questions guiding our analysis will be \u201chow are the recommendations or guiding questions included here relevant to centralisation or fragmentation, specifically how are they relevant to the principal connections of concern: 1) the advancement of single points of failure 2) impact on user choice\u201d?",
+          "createdAt": "2024-09-10T08:02:21Z",
+          "updatedAt": "2024-10-02T14:11:32Z"
+        }
+      ]
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOLb-3xM50Nzx0",
+      "title": "Update draft-todo-kumar-protocol.md",
+      "url": "https://github.com/SheetalThiam/fragcentral/pull/1",
+      "state": "MERGED",
+      "author": "michaelaNS1995",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [
+        "michaelaNS1995"
+      ],
+      "labels": [],
+      "body": "Grammatical issue",
+      "createdAt": "2024-07-02T15:25:30Z",
+      "updatedAt": "2024-07-02T15:33:07Z",
+      "baseRepository": "SheetalThiam/fragcentral",
+      "baseRefName": "main",
+      "baseRefOid": "a0745620ee4657123b274098b53302503498dbf7",
+      "headRepository": "SheetalThiam/fragcentral",
+      "headRefName": "michaelaNS1995-patch-1",
+      "headRefOid": "1e3b78777a6157feaa0e92c97fbb69b91773d909",
+      "closedAt": "2024-07-02T15:29:22Z",
+      "mergedAt": "2024-07-02T15:29:22Z",
+      "mergedBy": "michaelaNS1995",
+      "mergeCommit": {
+        "oid": "b96bdd16753df482f5b880dfbdc22411b13425c1"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOLb-3xM6AZmXJ",
+          "commit": {
+            "abbreviatedOid": "1e3b787"
+          },
+          "author": "SheetalThiam",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2024-07-02T15:28:17Z",
+          "updatedAt": "2024-07-02T15:28:17Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOLb-3xM50Z7Ft",
+      "title": "Update draft-todo-kumar-protocol.md",
+      "url": "https://github.com/SheetalThiam/fragcentral/pull/2",
+      "state": "MERGED",
+      "author": "jesspacis",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-07-04T06:51:50Z",
+      "updatedAt": "2024-09-09T14:53:35Z",
+      "baseRepository": "SheetalThiam/fragcentral",
+      "baseRefName": "main",
+      "baseRefOid": "0da9cefd89a2a4f719c9576848ca58d4b02c5b76",
+      "headRepository": "jesspacis/fragcentral",
+      "headRefName": "patch-1",
+      "headRefOid": "b201bde1d012814a3168727adf71ba37ed1763e7",
+      "closedAt": "2024-09-09T14:53:35Z",
+      "mergedAt": "2024-09-09T14:53:35Z",
+      "mergedBy": "michaelaA19",
+      "mergeCommit": {
+        "oid": "d171755fda10944e63992001f545ccc8089ec808"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOLb-3xM6IgQ-7",
+          "commit": {
+            "abbreviatedOid": "ef95b85"
+          },
+          "author": "michaelaA19",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2024-09-09T14:49:00Z",
+          "updatedAt": "2024-09-09T14:49:00Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOLb-3xM50_-Qx",
+      "title": "Minor revisions",
+      "url": "https://github.com/SheetalThiam/fragcentral/pull/3",
+      "state": "MERGED",
+      "author": "elsehow",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-07-10T17:48:26Z",
+      "updatedAt": "2024-07-16T14:10:57Z",
+      "baseRepository": "SheetalThiam/fragcentral",
+      "baseRefName": "main",
+      "baseRefOid": "b96bdd16753df482f5b880dfbdc22411b13425c1",
+      "headRepository": "elsehow/fragcentral",
+      "headRefName": "main",
+      "headRefOid": "cdc4ea39269d4bf20e6a13e4a12f8561c58f6e0c",
+      "closedAt": "2024-07-16T14:10:57Z",
+      "mergedAt": "2024-07-16T14:10:57Z",
+      "mergedBy": "SheetalThiam",
+      "mergeCommit": {
+        "oid": "0da9cefd89a2a4f719c9576848ca58d4b02c5b76"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 7,
+      "id": "PR_kwDOLb-3xM59YiHl",
+      "title": "Update draft-todo-kumar-protocol.md",
+      "url": "https://github.com/SheetalThiam/fragcentral/pull/7",
+      "state": "OPEN",
+      "author": "michaelaA19",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Grammatical issues; changes to section 4; added a new section 4.1 \"Framework for Assessing Protcols\" and a new section 4.2 \"Suggested Areas for Further Research",
+      "createdAt": "2024-10-02T14:20:46Z",
+      "updatedAt": "2024-10-02T14:20:46Z",
+      "baseRepository": "SheetalThiam/fragcentral",
+      "baseRefName": "main",
+      "baseRefOid": "fe2a96fac6a79a75644c97632bffaea480bf450a",
+      "headRepository": "SheetalThiam/fragcentral",
+      "headRefName": "michaelaA19-patch-1",
+      "headRefOid": "e98a689833b4be75ad368ad8d7e178f790b94660",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "PR_kwDOLb-3xM59z7ZT",
+      "title": "Update draft-todo-kumar-protocol.md",
+      "url": "https://github.com/SheetalThiam/fragcentral/pull/8",
+      "state": "OPEN",
+      "author": "michaelaA19",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Changes to section 4 'recommendations': integration of suggested framework with areas for consideration developed based on integrating analysis of the current field (primarily RFCs 9518, 8890, and 9620).",
+      "createdAt": "2024-10-07T12:41:28Z",
+      "updatedAt": "2024-10-07T14:33:15Z",
+      "baseRepository": "SheetalThiam/fragcentral",
+      "baseRefName": "main",
+      "baseRefOid": "007f7431a1c8e1ab4dc7cf9dc2cc96faa2415573",
+      "headRepository": "SheetalThiam/fragcentral",
+      "headRefName": "michaelaA19-patch-2",
+      "headRefOid": "3ac4f34f223498f5fbc9375b6ed550f7296c8d6f",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 9,
+      "id": "PR_kwDOLb-3xM59z70d",
+      "title": "Update draft-todo-kumar-protocol.md",
+      "url": "https://github.com/SheetalThiam/fragcentral/pull/9",
+      "state": "OPEN",
+      "author": "michaelaA19",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Addition to section 5 \"Use Cases\"",
+      "createdAt": "2024-10-07T12:42:20Z",
+      "updatedAt": "2024-10-07T12:42:20Z",
+      "baseRepository": "SheetalThiam/fragcentral",
+      "baseRefName": "main",
+      "baseRefOid": "007f7431a1c8e1ab4dc7cf9dc2cc96faa2415573",
+      "headRepository": "SheetalThiam/fragcentral",
+      "headRefName": "michaelaA19-patch-3",
+      "headRefOid": "2293cd99eb2caa31d93f41a320018b709fa390d5",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
